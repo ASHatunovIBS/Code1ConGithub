@@ -1,0 +1,2 @@
+rem chcp 1251
+"C:\Program Files (x86)\1cv8\8.3.12.1440\bin\1cv8.exe" ENTERPRISE /F"D:\Users\AShatunov\Documents\Развернутые базы\Тестовая файловая" /N"" /P"" /Execute "D:\Users\AShatunov\Documents\обработки\Стандарты и проверка кода\КонтролерКода.epf" /DisableStartupMessages /DisableStartupDialogs /ЗащитаОтОпасныхДействий /C https://github.com/shatalxe/CodeControl/commit/7a7436b168ed5b250e327875330870cf57b85f5c

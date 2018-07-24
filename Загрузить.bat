@@ -1,1 +1,2 @@
-"C:\Program Files (x86)\1cv8\8.3.12.1440\bin\1cv8.exe" DESIGNER /F"D:\Users\AShatunov\Documents\Развернутые базы\Тестовая файловая" /N"" /P"" /LoadExternalDataProcessorOrReportFromFiles "D:\Users\AShatunov\Documents\обработки\Стандарты и проверка кода\CodeControl\" "D:\Users\AShatunov\Documents\обработки\Стандарты и проверка кода\КонтролерКода.epf"
+chcp 1251
+"C:\Program Files (x86)\1cv8\8.3.12.1440\bin\1cv8.exe" DESIGNER /F"D:\Users\AShatunov\Documents\╨рчтхЁэєЄ√х срч√\╥хёЄютр  Їрщыютр " /N"" /P"" /LoadExternalDataProcessorOrReportFromFiles "%~dp0CodeControl\╩юэЄЁюыхЁ╩юфр.xml" "%~dp0╩юэЄЁюыхЁ╩юфр.epf"
