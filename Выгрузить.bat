@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\1cv8\8.3.12.1440\bin\1cv8.exe" DESIGNER /F"D:\Users\AShatunov\Documents\Развернутые базы\Тестовая файловая" /N"" /P"" /DumpExternalDataProcessorOrReportToFiles "D:\Users\AShatunov\Documents\обработки\Стандарты и проверка кода\CodeControl\" "D:\Users\AShatunov\Documents\обработки\Стандарты и проверка кода\КонтролерКода.epf"
+"C:\Program Files (x86)\1cv8\8.3.12.1440\bin\1cv8.exe" DESIGNER /F"D:\Users\AShatunov\Documents\Развернутые базы\Тестовая файловая" /N"" /P"" /DumpExternalDataProcessorOrReportToFiles "%~dp0CodeControl\" "%~dp0КонтролерКода.epf"
